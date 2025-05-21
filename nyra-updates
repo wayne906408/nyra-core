@@ -1,0 +1,5 @@
+def nyra_function():
+    print("Nyra core system is online and evolving.")
+
+if __name__ == "__main__":
+    nyra_function()
